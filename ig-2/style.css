@@ -1,0 +1,43 @@
+body {
+  background-color: #dcdcdc;
+}
+
+header {
+  background-color: white;
+  padding: 0px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.post {
+  background-color: white;
+}
+
+div.container {
+  width: 600px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+}
+
+h2, span, p {
+  padding: 10px;
+}
+
+.header h2 {
+  display: inline-block;
+  width: 85%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.header span{
+  display: inline-block;
+  width: 5%;
+  color: grey;
+}
